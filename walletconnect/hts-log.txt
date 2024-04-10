@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 16 Apr 2023 16:42:08 at https://maintdapp.com/dex/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://maintdapp.com/dex/ -O1 "C:\My Web Sites\best wallet drainer 2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:42:30	Warning: 	Retry after error -4 (Connect Error) at link https://maintdapp.com/dex/ (from primary/primary)
+16:43:39	Error: 	"Not Found" (404) at link https://accountresolvecenter.netlify.app/img/image.jpg (from https://maintdapp.com/dex/)
+16:43:39	Error: 	"Not Found" (404) at link https://maintdapp.com/syncwallet.online/social-card.png (from https://maintdapp.com/dex/)
+16:46:31	Error: 	"Not Found" (404) at link https://maintdapp.com/dex/social-card.html (from https://maintdapp.com/dex/imp/index.html)
+16:46:31	Error: 	"Not Found" (404) at link https://maintdapp.com/dex/imp/error.html (from https://maintdapp.com/dex/imp/index.html)
+16:46:31	Error: 	"Not Found" (404) at link https://maintdapp.com/dex/assets/fonts/uni0335.html (from https://maintdapp.com/dex/assets/fonts/Montserrat-Bold.svg)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 23 seconds : 113 links scanned, 106 files written (16978700 bytes overall) [16903096 bytes received at 64270 bytes/sec], 118467 bytes transferred using HTTP compression in 2 files, ratio 12%
+(5 errors, 1 warnings, 0 messages)
